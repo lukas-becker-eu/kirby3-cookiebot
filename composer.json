@@ -1,0 +1,19 @@
+{
+    "name": "lukasbecker/kirby3-cookiebot",
+    "description": "Add Cookiebot to your kirby-powered website",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Lukas Becker",
+        "email": "lukas@lukas-becker.eu",
+        "homepage": "https://lukas-becker.eu"
+      }
+    ],
+    "require": {
+      "getkirby/composer-installer": "^1.1"
+    },
+    "config": {
+      "optimize-autoloader": true
+    }
+  }
