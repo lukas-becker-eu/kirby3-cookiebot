@@ -1,6 +1,7 @@
 {
     "name": "lukasbecker/kirby3-cookiebot",
     "description": "Add Cookiebot to your kirby-powered website",
+    "version": "1.0.0",
     "type": "kirby-plugin",
     "license": "MIT",
     "authors": [
